@@ -18,3 +18,14 @@ Key Features:
 - Documentation: Comprehensive documentation to guide users through the project, including detailed explanations of the algorithms, instructions for data preprocessing, and guidelines for model interpretation.
 
 - Interactivity: Incorporating user-friendly interfaces to enable users to interact with the models, input their data, and obtain predictions for new tumor cases.
+
+Logistic Regression - 93% Success Rate:
+
+<img width="423" alt="Screenshot 2024-02-01 at 2 00 52 PM" src="https://github.com/noahp179/UnsupervisedLearning/assets/144384508/0f2d72cb-6c5f-4d43-af24-698b403780e2">
+
+K-means Clustering:
+
+<img width="423" alt="Screenshot 2024-02-01 at 2 02 07 PM" src="https://github.com/noahp179/UnsupervisedLearning/assets/144384508/48517057-b521-4930-bdb2-fef86fec17a2">
+
+
+
